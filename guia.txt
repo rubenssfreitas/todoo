@@ -1,0 +1,15 @@
+
+📝 Dicionário do Programador
+→  ReactJS: https://youtu.be/NhUr8cwDiiM
+→  API: https://youtu.be/vGuqKIRWosk
+→  REST: https://youtu.be/S7MduKwvVGk
+→  JSON: https://youtu.be/P81dE-tkaaA
+→  JWT: https://youtu.be/Gyq-yeot8qM
+→  CDN: https://youtu.be/02rvd_7HcFY
+→  2FA: https://youtu.be/s9gXjaatFNM
+→  Redux: https://youtu.be/kAOzxQp6AKE
+→  Next.js:  https://youtu.be/q_ZoX98uopM
+→  SEO:  https://youtu.be/mGKu002BgDs
+→  HTTP:  https://youtu.be/hwttZtWkXTk
+→  UX:  https://youtu.be/U1kKWqlfxnk
+→  CSS:  https://youtu.be/229xfk3EEM8
