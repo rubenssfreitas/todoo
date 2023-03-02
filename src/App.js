@@ -32,7 +32,7 @@ const App = () => {
   return (
     <section id="app" className="container">
       <header>
-        <h1 className="title">todo</h1>
+        <h1 className="title">Projeto Lista de Tarefas - TODO</h1>
       </header>
       <section className="main">
         <NewTodo onNewTodo={onNewTodo} />
